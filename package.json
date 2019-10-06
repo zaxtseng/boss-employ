@@ -1,0 +1,19 @@
+{
+  "name": "boss-employ",
+  "version": "1.0.0",
+  "description": "boss-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaxtseng/boss-employ.git"
+  },
+  "author": "zaxtseng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaxtseng/boss-employ/issues"
+  },
+  "homepage": "https://github.com/zaxtseng/boss-employ#readme"
+}
